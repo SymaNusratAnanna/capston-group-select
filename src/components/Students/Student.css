@@ -1,0 +1,21 @@
+.students-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.student{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 5px;   
+}
+
+.group-cart{
+    background-color: aquamarine;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /* height: 1000px; */
+    border-radius: 15px;
+    margin-right: 5px;
+    box-shadow: 10px 10px 8px #88888886;
+     
+}

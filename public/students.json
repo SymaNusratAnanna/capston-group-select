@@ -1,22 +1,22 @@
 [
   {
-    "id": 147,
-    "img": "https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWVufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80&fbclid=IwAR1pxdAn2k4VkilSPHiY0MpeS5_lCFeke2nBKzhn6ZCfxiDf1zqmx147OyU",
+    "id": 150,
+    "img": "https://i.ibb.co/7Xf7ZmB/vince-fleming-j3lf-Jn6deo-unsplash.jpg",
     "name": "Rimon",
     "waiver": 7500,
     "address": "Dhaka",
     "university": "NSU"
   },
   {
-    "id": 169,
-    "img": "https://www.hrw.org/sites/default/files/styles/square/public/multimedia_images_2015/2015_nisha-varia_06_web-bio.jpg?itok=kK9s1pfy&fbclid=IwAR1kICl0HOp8LAUvUnn2zgfnhthfCW_Qn0pTe4ORq-WwOnflT9rDoBWfgFQ",
+    "id": 160,
+    "img": "https://i.ibb.co/TL5Rb7j/ayo-ogunseinde-6-W4-F62s-N-y-I-unsplash.jpg",
     "name": "Asfi",
     "waiver": 4500,
     "address": "Khulna",
     "university": "NSU"
   },
   {
-    "id": 178,
+    "id": 170,
     "img": "https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWVufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80&fbclid=IwAR1pxdAn2k4VkilSPHiY0MpeS5_lCFeke2nBKzhn6ZCfxiDf1zqmx147OyU",
     "name": "Rohit",
     "waiver": 6500,
@@ -24,23 +24,23 @@
     "university": "NSU"
   },
   {
-    "id": 166,
-    "img": "https://english.cdn.zeenews.com/sites/default/files/2017/11/17/639329-indian-men.jpg?fbclid=IwAR2GmQ3PZ5XPYFGJI5YvC7FH2KhEZU0JvzRaANTMmAWKsgocQ0eEfUW69pk",
+    "id": 180,
+    "img": "https://i.ibb.co/jZT1TLm/ali-morshedlou-WMD64t-Mfc4k-unsplash.jpg",
     "name": "Jaraf",
     "waiver": 7500,
     "address": "Rajshahi",
     "university": "NSU"
   },
   {
-    "id": 128,
-    "img": "https://cdnuploads.aa.com.tr/uploads/Contents/2019/06/02/thumbs_b_c_d7350e3cad961870f18c363ae8ecb7cd.jpg?v=100713&fbclid=IwAR0odvm46BbUbu4IYo6mYe0x9CUhfO_4y2gIIJGut76kVDRWd1W_tsr8naY",
+    "id": 190,
+    "img": "https://i.ibb.co/xFcFyhn/rafaella-mendes-diniz-et-78-Qk-MMQs-unsplash.jpg",
     "name": "Nikita",
     "waiver": 4500,
     "address": "Faridpur",
     "university": "NSU"
   },
   {
-    "id": 171,
+    "id": 130,
     "img": "https://www.psypost.org/wp-content/uploads/2020/03/attractive-blonde-woman-taking-selfie-picture-of-herself-750x375.jpg?fbclid=IwAR2f3On8y2LUxTCaFDu4zzwIQsiVDqZBEFyf6vVsnu7GYsvA1eXI5pBCAjU",
     "name": "Sumi",
     "waiver": 5500,
@@ -58,7 +58,7 @@
   {
     "id": 156,
     "img": "https://www.hrw.org/sites/default/files/styles/square/public/multimedia_images_2015/2015_nisha-varia_06_web-bio.jpg?itok=kK9s1pfy&fbclid=IwAR1kICl0HOp8LAUvUnn2zgfnhthfCW_Qn0pTe4ORq-WwOnflT9rDoBWfgFQ",
-    "name": "Asif",
+    "name": "Asma",
     "waiver": 3500,
     "address": "Chittagong",
     "university": "NSU"

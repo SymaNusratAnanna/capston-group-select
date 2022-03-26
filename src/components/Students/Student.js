@@ -17,6 +17,9 @@ const Student = () => {
         const groupStudent = [...newStudent, student]
         setNewstudent(groupStudent);
     }
+    const removeCart = ()=>{
+        setNewstudent([]);
+    }
     return (
         <div className="students-container">
             <div className="student">
@@ -35,6 +38,7 @@ const Student = () => {
             <div className="group-cart">
                 <Group
                     newStudent={newStudent}
+                    removeCart = {removeCart}
                 ></Group>
             </div>
         </div>

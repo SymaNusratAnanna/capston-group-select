@@ -3,7 +3,7 @@ import Showname from '../Showname/Showname';
 import './Group.css';
 
 const Group = (props) => {
-    const { newStudent } = props;
+    const { newStudent , removeCart } = props;
     let total = 0;
     for (const student of newStudent) {
         total = total + student.waiver;
@@ -26,6 +26,7 @@ const Group = (props) => {
                 }
 
             </div>
+            <button onClick={removeCart}>Remove</button>
 
         </div>
     );

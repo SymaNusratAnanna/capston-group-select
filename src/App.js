@@ -1,4 +1,5 @@
 import './App.css';
+import Question from './components/FAQ/Question';
 import Header from './components/Header/Header';
 import Student from './components/Students/Student';
 
@@ -7,6 +8,7 @@ function App() {
     <div>
       <Header></Header>
       <Student></Student>
+      <Question></Question>
     </div>
   );
 }

@@ -17,9 +17,25 @@ const Student = () => {
         const groupStudent = [...newStudent, student]
         setNewstudent(groupStudent);
     }
+    const chooseRandom = ()=>{
+        let randomSelect = []
+    let randomValueIndex = Math.round(Math.random() * newStudent.length)
+    if (randomValueIndex < newStudent.length) {
+        let randomProduct = newStudent[randomValueIndex]
+        if (randomProduct) {
+            randomSelect.push(randomProduct)
+            setNewstudent(randomSelect)
+        }
+
+    }
+    else {
+        chooseRandom()
+    }
+    }
     const removeCart = ()=>{
         setNewstudent([]);
     }
+
     return (
         <div className="students-container">
             <div className="student">
@@ -39,6 +55,7 @@ const Student = () => {
                 <Group
                     newStudent={newStudent}
                     removeCart = {removeCart}
+                    chooseRandom = {chooseRandom}
                 ></Group>
             </div>
         </div>
